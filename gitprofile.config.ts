@@ -78,8 +78,7 @@ const CONFIG = {
     email: 'farhanshahjahan1998@gmail.com',
   },
   resume: {
-    fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: '/Farhan-CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
